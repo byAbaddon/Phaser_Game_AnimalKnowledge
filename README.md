@@ -11,7 +11,7 @@
 + +
 
 # Game - AnimalKnowledge
-- Educational game about: animals.
+- Educational game about animals on; Bulgarian, Russian and English language.
 
 ## Playing the game
 Before the game you can practice flipping through the different animals and learning their names on; Bulgarian, Russian and English.
