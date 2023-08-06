@@ -10,7 +10,7 @@
 + android stuido
 + +
 
-# Game - NationalKnowledge
+# Game - AnimalKnowledge
 - Educational game about: animals.
 
 ## Playing the game
