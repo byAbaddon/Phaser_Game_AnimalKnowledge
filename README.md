@@ -20,9 +20,9 @@ You will get points depending on the correct answers.
 If you get more than ten wrong answers, it's game over.
 
 ### Notes:
-
+```diff
 - Not suport landscape position!
-
+```
 ## Short video intro:
 
 
