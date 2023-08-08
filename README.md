@@ -19,6 +19,9 @@ The aim of the game is to find the correct name of the animal from the different
 You will get points depending on the correct answers.
 If you get more than ten wrong answers, it's game over.
 
+### Notes:
+- Not suport landscape position!
+
 ## Short video intro:
 
 
@@ -33,6 +36,7 @@ If you get more than ten wrong answers, it's game over.
 
 ### Prerequisites
 - [Phaser 3](https://phaser.io)
+
 #### Year:
 2023
 
