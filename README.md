@@ -24,7 +24,7 @@ If you get more than ten wrong answers, it's game over.
 - Not suport landscape position!
 ```
 ## Short video intro:
-
+https://youtu.be/vWGrM5VqsD4
 
 ## Screenshots:
 
