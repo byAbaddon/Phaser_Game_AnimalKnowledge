@@ -42,7 +42,7 @@ https://youtu.be/vWGrM5VqsD4
 ### Download
 #### Created with Phaser 3 and converted for android mobile app.
 ##### download apk file:
-
+https://github.com/byAbaddon/Phaser_Game_AnimalsKnowledge/releases/tag/AnimalsKnowledge
 
 
 ### Prerequisites
