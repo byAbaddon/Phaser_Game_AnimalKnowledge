@@ -1,4 +1,4 @@
-# Phaser_Game_AnimalKnowledge
+# Phaser_Game_AnimalsKnowledge
 
 ### Created a project using:
 + Phaser 3
@@ -10,7 +10,7 @@
 + android stuido
 + +
 
-# Game - AnimalKnowledge
+# Game - AnimalsKnowledge
 - Educational game about animals on; Bulgarian, Russian and English language.
 
 ## Playing the game
