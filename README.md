@@ -27,6 +27,16 @@ If you get more than ten wrong answers, it's game over.
 https://youtu.be/vWGrM5VqsD4
 
 ## Screenshots:
+![1](https://github.com/byAbaddon/Phaser_Game_AnimalKnowledge/assets/51271834/47b04192-7033-466d-9749-54838117c64a)
+![2](https://github.com/byAbaddon/Phaser_Game_AnimalKnowledge/assets/51271834/3e6b3051-4e3b-401a-8e35-63c8d2229445)
+![3](https://github.com/byAbaddon/Phaser_Game_AnimalKnowledge/assets/51271834/14c06834-275d-4474-a8ab-41d2afa41584)
+![4](https://github.com/byAbaddon/Phaser_Game_AnimalKnowledge/assets/51271834/75acc928-044e-492f-82d8-1685fb088e82)
+![5](https://github.com/byAbaddon/Phaser_Game_AnimalKnowledge/assets/51271834/923bdaef-8d53-4a4a-9722-c3860ee3c974)
+![6](https://github.com/byAbaddon/Phaser_Game_AnimalKnowledge/assets/51271834/0f55d114-0154-444e-a4ae-75dcae3c3ee4)
+![7](https://github.com/byAbaddon/Phaser_Game_AnimalKnowledge/assets/51271834/6880e78f-4012-4f46-bbcb-c64a1c59229c)
+![8](https://github.com/byAbaddon/Phaser_Game_AnimalKnowledge/assets/51271834/bb803e9b-eb95-4f8e-9102-4cac6861b3f2)
+![9](https://github.com/byAbaddon/Phaser_Game_AnimalKnowledge/assets/51271834/11d04cc3-33a1-4ce8-bf37-b0fc4cffea44)
+![10](https://github.com/byAbaddon/Phaser_Game_AnimalKnowledge/assets/51271834/054cc9c8-2e13-4f67-aa97-24c966b4a322)
 
 
 ### Download
